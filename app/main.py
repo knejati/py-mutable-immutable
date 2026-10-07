@@ -17,7 +17,7 @@ marks = {
 collection_of_coins = {1, 2, 25}
 
 sorted_variables = {
-    "imutable": [
+    "immutable": [
         lucky_number,
         pi,
         one_is_a_prime_number,
